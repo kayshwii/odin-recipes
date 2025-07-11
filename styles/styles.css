@@ -1,0 +1,30 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.header a {
+    color: aliceblue;
+}
+
+.header {
+    background-color: blueviolet;
+    padding: 10px;
+}
+
+.title {
+    text-align: center;
+}
+
+.hero {
+    width: 500px;
+    margin: auto;
+}
+
+.hero img {
+    width: 100%;
+}
+
+.article-body {
+    padding: 0 200px;
+}
